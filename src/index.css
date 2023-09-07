@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  font-family: cursive,sans-serif;
+}
+
+body{
+  background-color: #13121221;
+}
+
